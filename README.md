@@ -13,7 +13,7 @@
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,figma,tailwind,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,typescript,figma" />
 </div>
 
 <h2 align="center">⚡Stats⚡</h2>
