@@ -3,7 +3,7 @@
 </h1>
 
 <div  align="center">
-- 💼 Atualmente estou trabalhando com React, Typescript, Tailwind CSS.
+- 💼 Atualmente estou trabalhando com Angular, Typescript, Tailwind CSS.
 </div>
 
 <br />
@@ -13,7 +13,7 @@
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,typescript,figma" />
+  <img src="https://skillicons.dev/icons?i=angular,tailwind,typescript,figma" />
 </div>
 
 <h2 align="center">⚡Stats⚡</h2>
