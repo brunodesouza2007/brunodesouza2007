@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Bruno!;" />
 
 ###
 
@@ -40,5 +40,5 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/brunodesouza2007/brunodesouza2007/blob/output/github-contribution-grid-snake.svg)
-###
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+</h1>
