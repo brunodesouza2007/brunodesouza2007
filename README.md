@@ -3,7 +3,7 @@
 </h1>
 
 <div  align="center">
-- 💼 Atualmente estou trabalhando com Angular, Typescript, Tailwind CSS.
+- 💼 Atualmente estou trabalhando com Angular
 </div>
 
 <br />
